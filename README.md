@@ -1,11 +1,11 @@
 ### Hi there!
 
 I'm focused on learning game development, and have been studying:
--🎮 game design
--💻 programming
--🔊 sound design
--🎨 pixel art
-
+- 🎮 game design
+- 💻 programming
+- 🔊 sound design
+- 🎨 pixel art
+<br>
 
 📚 At the moment I'm busy with CS50's game development course.
 
