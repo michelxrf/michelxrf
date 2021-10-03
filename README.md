@@ -1,6 +1,7 @@
 ### Hi there!
 
 I'm focused on learning game development, and have been studying:
+
 🎮 game design
 💻 programming
 🔊 sound design
