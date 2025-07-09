@@ -8,5 +8,5 @@ I'm focused on learning game development, and have been studying:
 - 🧊 3d
 <br>
 
-🧲 You can find my games at [Itch.io](https://friendlygecko.itch.io/).
+🧲 You can find my games at [Itch.io](https://friendlygecko.itch.io/)
 🧲 My full portfolio is at (https://sites.google.com/view/michelredmer/main)
